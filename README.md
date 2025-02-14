@@ -15,7 +15,7 @@ deployed at [cansu.dev](https://cansu.dev/this-page-does-not-exist)
 deployed at [code.cansu.dev](https://code.cansu.dev/this-page-does-not-exist)
 ![alt text](./Sunbather/ss.png)
 ### Volkswagen Phaeton
-todo for [dj.cansu.dev]
+deployed at [dj.cansu.dev](https://dj.cansu.dev/this-page-does-not-exist)
 
 ### LICENSE
 tldr: you have to do one push-up if you use any assets from this repository
