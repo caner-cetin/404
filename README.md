@@ -21,6 +21,10 @@ deployed at [dj.cansu.dev](https://dj.cansu.dev/this-page-does-not-exist), unfor
 
 
 
+https://github.com/user-attachments/assets/34163e40-fb71-4faa-9357-2ae02262617e
+
+
+
 
 ### LICENSE
 tldr: you have to do one push-up if you use any assets from this repository
