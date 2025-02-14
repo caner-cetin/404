@@ -15,7 +15,11 @@ deployed at [cansu.dev](https://cansu.dev/this-page-does-not-exist)
 deployed at [code.cansu.dev](https://code.cansu.dev/this-page-does-not-exist)
 ![alt text](./Sunbather/ss.png)
 ### Volkswagen Phaeton
-deployed at [dj.cansu.dev](https://dj.cansu.dev/this-page-does-not-exist)
+deployed at [dj.cansu.dev](https://dj.cansu.dev/this-page-does-not-exist), unfortunately, interaction needed for video to play, so we lose the phaeton jumpscare effect ;(
+
+
+https://github.com/user-attachments/assets/b1f658ab-0562-4324-a6d7-0a1024d07da9
+
 
 ### LICENSE
 tldr: you have to do one push-up if you use any assets from this repository
